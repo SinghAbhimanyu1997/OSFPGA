@@ -36,22 +36,76 @@ Co-founder of VLSI System Design (VSD) Corporation Private Limited
   * [Part 3: RVMyth-post impl netlist](#Part3-RVMyth-post-impl-netlist)
   * [Part 4: SOFA-RVMyth Vivado simulation](#Part4-SOFA-RVMyth-Vivado-simulation)
 
-##Day1
-##FPGA INTRODUCTION
+## Day1
+
+## FPGA INTRODUCTION
+
 ## COUNTER SIMULATION OUTPUT
 ![Screenshot (325)](https://user-images.githubusercontent.com/106426239/172041414-0f35415e-f40d-4ec0-8ad0-8cc6192a4d60.png)
+
 I/O PLANNING
+
 ![Screenshot (326)](https://user-images.githubusercontent.com/106426239/172041523-801efa2a-a01f-4697-824b-ab8282c88d88.png)
+
 GIVING PINS TO INPUT AND OUTPUT
+
 ![Screenshot (327)](https://user-images.githubusercontent.com/106426239/172041553-2ecd1786-3bf0-466b-b285-4f5cec3592a1.png)
+
 SCHEMATIC GENERATED
+
 ![Screenshot (329)](https://user-images.githubusercontent.com/106426239/172041578-a750ac9d-21a3-4936-9e3b-cc7e7908178e.png)
+
 ADDING CONSTRAINT
+
 ![Screenshot (330)](https://user-images.githubusercontent.com/106426239/172041604-1bc3a859-0b0d-4b4f-9492-9247eb998f59.png)
+
 POWER ANALYSIS
+
 ![Screenshot (331)](https://user-images.githubusercontent.com/106426239/172041639-6b918d9e-df78-49fe-8bb2-2b7989cceba1.png)
+
 UTILIZATION REPORT
+
 ![Screenshot (332)](https://user-images.githubusercontent.com/106426239/172041670-6a30ccc5-374c-4494-a774-55fd8c0c4a16.png)
+
+## DAY2
+
+## OPENFPGA INTRO
+
+## VPR FLOW
+
+Packs the netlist, Placement, Routing And Timing Analysis.
+
+![Screenshot (338)](https://user-images.githubusercontent.com/106426239/172041945-d468c185-7834-4d20-8320-78feba2c0dcb.png)
+
+TIMING REPORT WITHOUT CONSTRAINT
+
+![Screenshot (339)](https://user-images.githubusercontent.com/106426239/172041990-179bcd6c-3bfc-42cc-960d-327d62940f4f.png)
+
+TIMING REPORT WITH CONSTRAINT
+
+![Screenshot (343)](https://user-images.githubusercontent.com/106426239/172042040-6b705106-1d2d-4d64-855c-6edb2dc890ea.png)
+
+## VTR FLOW 
+RESULT OF VTR FLOW
+
+![Screenshot (345)](https://user-images.githubusercontent.com/106426239/172042112-aefb2c86-c30e-48dc-aff0-b3d104e25900.png)
+
+VPR RESULTS
+
+![Screenshot (350)](https://user-images.githubusercontent.com/106426239/172042146-8fe18d67-99bf-441e-92af-c96592304832.png)
+
+## POST SYNTHESIS SIMULATION
+
+![Screenshot (352)](https://user-images.githubusercontent.com/106426239/172042175-4736dfdf-a5b7-4a8c-8ea3-2fb014ed9d9a.png)
+
+
+
+
+
+
+
+
+
 
 
 
