@@ -35,3 +35,24 @@ Co-founder of VLSI System Design (VSD) Corporation Private Limited
   * [Part 2: SOFA-RVMyth timing and area](#Part2-SOFA-RVMyth-timing-and-area)
   * [Part 3: RVMyth-post impl netlist](#Part3-RVMyth-post-impl-netlist)
   * [Part 4: SOFA-RVMyth Vivado simulation](#Part4-SOFA-RVMyth-Vivado-simulation)
+
+##Day1
+##FPGA INTRODUCTION
+## COUNTER SIMULATION OUTPUT
+![Screenshot (325)](https://user-images.githubusercontent.com/106426239/172041414-0f35415e-f40d-4ec0-8ad0-8cc6192a4d60.png)
+I/O PLANNING
+![Screenshot (326)](https://user-images.githubusercontent.com/106426239/172041523-801efa2a-a01f-4697-824b-ab8282c88d88.png)
+GIVING PINS TO INPUT AND OUTPUT
+![Screenshot (327)](https://user-images.githubusercontent.com/106426239/172041553-2ecd1786-3bf0-466b-b285-4f5cec3592a1.png)
+SCHEMATIC GENERATED
+![Screenshot (329)](https://user-images.githubusercontent.com/106426239/172041578-a750ac9d-21a3-4936-9e3b-cc7e7908178e.png)
+ADDING CONSTRAINT
+![Screenshot (330)](https://user-images.githubusercontent.com/106426239/172041604-1bc3a859-0b0d-4b4f-9492-9247eb998f59.png)
+POWER ANALYSIS
+![Screenshot (331)](https://user-images.githubusercontent.com/106426239/172041639-6b918d9e-df78-49fe-8bb2-2b7989cceba1.png)
+UTILIZATION REPORT
+![Screenshot (332)](https://user-images.githubusercontent.com/106426239/172041670-6a30ccc5-374c-4494-a774-55fd8c0c4a16.png)
+
+
+
+
