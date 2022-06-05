@@ -3,10 +3,11 @@ Open Source FPGA
 
 ![](risc-v/risc-v_banner.png)
 ### ABOUT THE WORKSHOP
-The Workshop is a 5-day basic to advance program that is design for fresher and professional who wants to build a career in VLSI industry. It is a cloud based workshop that comprises of training courses that covers RISC-V specs, RISC-V software, How to implement RISC-V basic specs using TL-Verilog and Simulate your own RISC-V core. In short, you are going to write RTL and build RISC-V core on your own.
+In this workshop, I broadly cover 5 modules. The first module focuses on taking a digital design through Xilinx Vivado and programming it on the FPGA. We also did area, timing analysis, and post-implementation simulation. In the second module, we covered the OpenFPGA framework and the VTR tool flow on two designs with an example architecture. Next, we repeated these tasks for a RISC-V based processor called RVMyth then we simulated RVMyth with a testbench through Vivado and program it on a Basys3 board. We then take it through the OpenFPGA framework through Skywater OpenSource FPGA (SOFA). We also did area, timing analysis, and post implementation simulation for the processor core after taking it through SOFA. Lastly, we compared the area and timing results obtained by the design from Basys3 and VTR.
 ### AUTHOR OF THE WORKSHOP
 #### Mr. Kunal Ghosh
 Co-founder of VLSI System Design (VSD) Corporation Private Limited
+
 #### 
 ### AGENDA
  [Day 1 Intro](#Day1-Intro)
