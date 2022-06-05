@@ -98,6 +98,50 @@ VPR RESULTS
 
 ![Screenshot (352)](https://user-images.githubusercontent.com/106426239/172042175-4736dfdf-a5b7-4a8c-8ea3-2fb014ed9d9a.png)
 
+RESULT OF POST SIMULATION
+
+![image](https://user-images.githubusercontent.com/106426239/172066063-47bdfb8a-2a8b-4cd1-99a5-b032827c2bba.png)
+
+## DAY 3 : INTRODUCTION TO RISC-V CORE PROGRAMMING IN VIVADO
+
+RVmyht vivado rtl to synthesis
+
+![image](https://user-images.githubusercontent.com/106426239/172066296-426a5dbf-9623-47b1-b811-971904f7bb33.png)
+
+OUTPUT
+
+![image](https://user-images.githubusercontent.com/106426239/172066352-a3edfe45-7ea7-44d7-bc13-7648f17b131e.png)
+
+
+SYNTHESIS TO BIT-TO-BITSTREAM
+
+UTILIZATION
+
+![image](https://user-images.githubusercontent.com/106426239/172066481-9b04044e-3389-456f-87c4-b1b768025424.png)
+
+SCHEMATIC
+
+![image](https://user-images.githubusercontent.com/106426239/172066523-c8f7e3a9-372c-4b8f-bcbd-c06110fbd30e.png)
+
+
+## DAY 4 INTRODUCTION TO SOFA FPGA FABRIC IP
+
+SOFA COUNTER TIMING
+
+![image](https://user-images.githubusercontent.com/106426239/172066769-e53e3abe-593c-4392-b391-b429e6afddc4.png)
+
+
+SOFA POST IMPLIMENTAION OUTPUT
+
+![image](https://user-images.githubusercontent.com/106426239/172066806-14aae942-d4a3-4544-9081-d0ae9156d904.png)
+
+
+
+
+
+
+
+
 
 
 
